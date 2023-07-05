@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex and i've been a enthusiast since the 
+- 👋 Hi, I’m Alex and I've been an enthusiast since the 
 [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro), 
 [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum), 
 [C64](https://en.wikipedia.org/wiki/Commodore_64), 
