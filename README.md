@@ -2,9 +2,9 @@
 [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro), 
 [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum), 
 [C64](https://en.wikipedia.org/wiki/Commodore_64), 
-[Acorn Archimedes](https://en.wikipedia.org/wiki/Acorn_Archimedes), 
-[Atari ST](https://en.wikipedia.org/wiki/Atari_ST) and [14.4k Modems](https://en.wikipedia.org/wiki/SupraFAXModem_14400) 🔌
-- 👀 I’m interested in coding, technology, hacking, architecture, playing, walking, thinking, brainstorming and space 🚀
+[Acorn Archimedes](https://en.wikipedia.org/wiki/Acorn_Archimedes) and 
+[Atari ST](https://en.wikipedia.org/wiki/Atari_ST) 💾
+- 👀 I’m interested in coding, technology, hacking, architecture, playing, walking, thinking and space 🚀
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/), 
 [Nuxt 3](https://masteringnuxt.com/), 
 [Vue 3](https://www.vuemastery.com/) and conquering [Web Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) 🧪
