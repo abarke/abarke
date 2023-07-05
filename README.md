@@ -2,7 +2,7 @@
 [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro), 
 [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum), 
 [C64](https://en.wikipedia.org/wiki/Commodore_64), 
-[Acorn Archimedes](https://en.wikipedia.org/wiki/Acorn_Archimedes) and 
+[Acorn Archimedes](https://en.wikipedia.org/wiki/Acorn_Archimedes),
 [Atari ST](https://en.wikipedia.org/wiki/Atari_ST) 💾
 - 👀 I’m interested in coding, technology, hacking, architecture, playing, walking, thinking and space 🚀
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/), 
