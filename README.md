@@ -1,4 +1,4 @@
-- 👋 Hi I’m Alex and I've been an enthusiast since the 
+- 👋 I’m Alex and I've been an enthusiast since the 
 [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro), 
 [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum), 
 [C64](https://en.wikipedia.org/wiki/Commodore_64), 
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/), 
 [Nuxt 3](https://masteringnuxt.com/), 
 [Vue 3](https://www.vuemastery.com/) and conquering [Web Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) 🧪
-- ☁️ Working towards being a [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+- ☁️ Working towards being a [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-professional/) 📃
 - 💞️ I’m looking to collaborate on improving the world 👍
 - ☀️ Employed with honour at [Solarnative](https://solarnative.com/) ⚡
 - 📫 Reach me at [sixedge.com](https://sixedge.com/) 👋
