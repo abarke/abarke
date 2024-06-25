@@ -9,7 +9,7 @@
 [Nuxt 3](https://masteringnuxt.com/), 
 [Vue 3](https://www.vuemastery.com/) and conquering [Web Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) 🧪
 - ☁️ Working towards being a [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-professional/) 📃
-- 💞️ I’m looking to collaborate on improving the world 👍
+- 💞️ I’m working towards building a [sustainable future](https://en.wikipedia.org/wiki/Sustainable_development) 🌳
 - ☀️ Employed with honour at [Solarnative](https://solarnative.com/) ⚡
 - 📫 Reach me at [sixedge.com](https://sixedge.com/) 👋
 
