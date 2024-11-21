@@ -10,7 +10,7 @@
 [Vue 3](https://www.vuemastery.com/) and conquering [Web Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) 🧪
 - ☁️ Working towards being a [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-professional/) 📃
 - 💞️ Contributing towards [Sustainable Development](https://en.wikipedia.org/wiki/Sustainable_development) 🌳
-- ☀️ Employed with honour at [Solarnative](https://solarnative.com/) ⚡
+- ☀️ Employed with honour at [CMBlu Energy](https://cmblu.com/) ⚡
 - 📫 Reach me at [sixedge.com](https://sixedge.com/) 👋
 
 <!---
